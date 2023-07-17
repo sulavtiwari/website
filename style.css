@@ -54,7 +54,7 @@ ul.nav-menu li a{
             background-color:rgba(76, 0, 130, 0.683);
             width: 100%;
             text-align: center;
-            z-index: 1;
+            /* z-index: 1; */
         }
 
     ul.nav-menu li{
