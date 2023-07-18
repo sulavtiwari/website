@@ -147,7 +147,9 @@ overflow: hidden;
     padding:20px 0px;
 }
 .mulitems .selects{
-    margin-left:30%;
+    
+   
+    text-align: center;
     padding-bottom: 20px;
 
 }
