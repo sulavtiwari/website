@@ -167,7 +167,7 @@ overflow: hidden;
     background-color: purple;
 }
 .card-container .card{
-    width:400px;
+    width:450px;
 }
 .card-container .inner-card{
   display: flex;
