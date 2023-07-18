@@ -54,7 +54,7 @@ ul.nav-menu li a{
             background-color:rgba(76, 0, 130, 0.683);
             width: 100%;
             text-align: center;
-            /* z-index: 1; */
+            z-index: 1;
         }
 
     ul.nav-menu li{
@@ -135,4 +135,24 @@ overflow: hidden;
     position: absolute;
     top:45%;
     right:10px;
+}
+
+/* Multi Items Css */
+
+.mulitems .title{
+    text-align: center;
+    font-size: 1.5rem;
+    color: rgb(168, 4, 4);
+    font-weight: bold;
+    padding:20px 0px;
+}
+.mulitems .selects{
+    margin-left:40%;
+    padding-bottom: 20px;
+}
+.mulitems .selects button{
+    color: white;
+    background-color: rgb(34, 20, 3);
+    padding: 8px 8px;
+    cursor: pointer;
 }
